@@ -1,0 +1,90 @@
+.header-checkout{
+    position: relative ;
+    padding-top:120px ;
+    padding-bottom: 50px ;
+    flex: content ;
+    width: 110% ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ 
+  }
+ 
+  .profle-card-checkout {
+    padding-top: 30px ;
+    padding-bottom: 50px ;
+    padding-left: 25px ;
+    padding-right: 25px ;
+    height: auto ;
+    
+  }
+  
+  .profile-card-view-checkout {
+    box-shadow: 0 4px 5px 3px #9ba0cc ;
+    color: rgba(10, 10, 10, 0.781) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin-left: -170px;
+    
+    
+   
+  }
+  
+  .h3{
+    margin-top: 15px;
+    color: black;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+  }
+  .h4{
+    color: black;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bold;
+    
+
+  }
+
+ @media (max-width: 906px)
+   {
+   
+    .header-checkout{
+      position: relative !important;
+      padding-top:120px !important;
+      padding-bottom: 50px !important;
+     
+      flex: content !important;
+      width: 100% !important;
+      display: flex !important;
+    
+      
+   
+    }
+    .profile-card-view-checkout {
+      box-shadow: 0 4px 5px 3px #9ba0cc !important;
+      color: rgba(10, 10, 10, 0.781) !important;
+      justify-content: center;
+      align-items: center;
+      width: 150%;
+      margin-left: -10px;
+      display: inline-block;
+     
+      
+      
+    }
+    .profle-card-checkout {
+      padding-top: 30px ;
+      padding-bottom: 50px ;
+      padding-left: 25px ;
+      padding-right: 25px ;
+      height: auto ;
+      
+    }
+
+    
+  }
+ 

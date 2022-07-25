@@ -1,0 +1,159 @@
+.head{
+    position: relative !important;
+    padding-top: 50px !important;
+    padding-bottom:400px !important;
+    margin-top: 50px;
+    flex: content;
+    
+
+
+}
+
+.profle-card {
+    padding-top: 30px !important;
+    padding-bottom: 50px !important;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    height: auto !important;
+    
+  }
+  
+  .profile-card-view {
+    box-shadow: 0 4px 5px 3px #9ba0cc !important;
+    color: rgba(10, 10, 10, 0.781) !important;
+    background-color: transparent !important;
+    opacity: 1 !important;
+    transition: all 0.5s ease 0s !important;
+    height: 100% !important;
+    width: 20%;
+    border-radius: 50px;
+    margin-left: 730px;
+    margin-top: -330px;
+  }
+ .p{
+     text-align: center;
+     flex: auto;
+ }
+
+ .btn-primary {
+  color: #fff !important;
+  background-color:#18191b !important;
+  border-color: #101011 !important
+  
+}
+
+.btn-primary:hover {
+  color: #fff !important;
+  background-color: #616166 !important;
+  border-color: #515355 !important;
+ 
+}
+.btn:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+.b1{
+  padding-top: 20px;
+}
+.profle-card2 {
+  padding-top: 50px !important;
+  padding-bottom: 50px !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  height: auto !important;
+  
+}
+
+.profile-card-view2 {
+  box-shadow: 0 4px 5px 3px #9ba0cc !important;
+  color: rgba(10, 10, 10, 0.781) !important;
+  background-color: transparent !important;
+  opacity: 1 !important;
+  transition: all 0.5s ease 0s !important;
+  height: 100% !important;
+  width: 13%;
+  border-radius: 50px;
+  margin-left: 120px;
+  margin-top: 30px;
+  
+ 
+}
+
+.btn-primary2 {
+  color: black !important;
+  background-color:#fff !important;
+  
+  
+}
+
+.btn-primary2:hover {
+  color: black !important;
+  background-color: #616166 !important;
+  border-color: #515355 !important;
+ 
+}
+.btn:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.resetpasswords-screen {
+  width: 100%;
+  height: 93.4vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -600px;
+  margin-left: -20px;
+
+ 
+}
+
+.resetpasswords-screen__form {
+  width: 380px;
+  padding: 1.5rem;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  background: #fff;
+  border-radius: 50px;
+  box-shadow: 0 4px 5px 3px #9ba0cc !important;
+  color: rgba(10, 10, 10, 0.781) !important;
+  
+}
+
+.resetpasswords-screen__title {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 905px) {
+  .profile-card-view  {
+    box-shadow: 0 4px 5px 3px #9ba0cc !important;
+    color: rgba(10, 10, 10, 0.781) !important;
+    justify-content: center;
+    align-items: center;
+    width: 150%;
+    margin-left: -10px;
+    display: inline-block;
+  }
+  .profile-card-view2  {
+    box-shadow: 0 4px 5px 3px #9ba0cc !important;
+    color: rgba(10, 10, 10, 0.781) !important;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    margin-left: -10px;
+    display: inline-block;
+  }
+  .head{
+    position: relative !important;
+    padding-top: 50px !important;
+    padding-bottom:400px !important;
+    margin-top: 50px;
+    flex: content;
+    display: inline-block;
+    width: auto;
+  
+}
+   
+  
+}

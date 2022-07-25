@@ -1,0 +1,43 @@
+  /* --------- */
+  /* Footer */
+  /* --------- */
+  .footer {
+    background-color: #fff127a9;
+    bottom: 0 !important;
+    padding-top: 10px !important;
+    padding-bottom: 20px !important ;
+    
+  
+  }
+  .footer-copywright {
+    text-align: center !important;
+    
+    
+  }
+  
+  .footer-body {
+    text-align: center !important;
+    
+
+   
+  }
+  
+  @media (max-width: 767px) {
+    .footer-copywright {
+      text-align: center !important;
+      padding-top: 14px !important;
+      
+     
+    
+
+    }
+  
+    .footer-body {
+      text-align: center !important;
+     
+
+      
+    }
+  }
+  
+ 

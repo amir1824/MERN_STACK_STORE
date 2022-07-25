@@ -1,0 +1,127 @@
+.home-section1 {
+    position: relative !important;
+    padding-top: 120px !important;
+    padding-bottom: 30px !important;
+    background-color: rgb(255, 197, 47);
+    flex: auto;
+    
+  }
+
+  .home-section2 {
+    position: relative !important;
+    padding-top: 120px !important;
+    padding-bottom: 30px !important;
+    background-color: rgb(229, 63, 81);
+    flex: auto;    
+  }
+  .home-section3 {
+    position: relative !important;
+    padding-top: 120px !important;
+    padding-bottom: 30px !important;
+    flex: auto;
+    
+   
+    
+  }
+
+  .home-header {
+    padding-top: 80px !important;
+  }
+  
+  
+  
+  .home-content {
+    padding: 9rem 0 2rem !important;
+    color: whitesmoke;
+    text-align: left;
+  }
+  
+  .heading {
+    font-size: 2.4em !important;
+    padding-left: 50px !important;
+  }
+  
+  .heading-name {
+    font-size: 2.5em !important;
+    padding-left: 45px !important;
+  }
+  
+  .main-name {
+    color: #4858e0;
+  }
+
+
+  
+  .img1{
+    margin-left: 1000px;
+    position: relative;
+    margin-top: -40px;
+    
+    
+  }
+    
+  .p1{
+  margin-right: 1000px;
+   position: relative;
+   top:230px;
+   color: rgb(12, 11, 11);
+   font-size: 30px;
+   font-style: italic;
+ 
+  }
+  .p2{
+    position: relative;
+    font-size: 30px;
+    font-style: italic;
+    color:white;
+
+  }
+  .h1{
+    font-size: 50px;
+    color: rgb(236, 235, 232);
+    font-style: italic;
+  }
+  .h2{
+    font-size: 50px;
+    color: black;
+    font-style: italic;
+  }
+
+
+  @media(max-width: 576px){
+    .home-section1 {
+      position: relative;
+      padding-top: 120px !important;
+      padding-bottom: 30px !important;
+      background-color: rgb(255, 197, 47);
+      flex: auto;
+      display: inline-block;
+     
+     
+   
+    }
+
+      .img1{
+        margin-left: -100px;
+        position: relative;
+        margin-top: -40px;
+        padding-top: 300px;
+        height: auto;
+        object-fit: cover;
+        display: inline-block;
+        block-size: auto;
+       
+        
+      }
+        
+      .p1{
+       margin-right:50px;
+       position: relative;
+       color: rgb(12, 11, 11);
+       font-size: 30px;
+       font-style: italic;
+     
+      }
+  
+  
+}
