@@ -5,7 +5,7 @@
 ## The technologies
 - MERN Stack: mongodb,express,node.js,React.js
 - Store-client side with react bootstrap and css3
-- Admin-client side with react and  scss 
+- Admin-client side with react and  sass 
 
 
 ## How to configure
